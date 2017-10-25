@@ -10,6 +10,7 @@ Prep: 5 min
 Cook: 15 min
 Ready In: 20 min
 Ready in : 50 mins
+Serve in : 60 min
 
 Ingredients
 1. 8 ounces spiral pasta
